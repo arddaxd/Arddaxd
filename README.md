@@ -3,7 +3,7 @@
 1.5 yılı aşkın bir süredir JavaScript ile Discord üzerinde bot geliştiriyorum. Html, Css ve Nodejs gibi yazılım dilleri kullanarak kendi çapımda web site geliştiriyorum.
 Çok fazla arkadaşım olmadığından kendimce eğlenebileceğim bir şeyler yapmayı/geliştirmeyi severim.
 
-Genellikle modüller ile ilgileniyorum, discord.js gibi modüller kullanarak botlar geliştiriyorum. Boş zamanlarımdada aynı şekilde Yazılımla ilgileniyorum&manga okuyorum veya nadiren bir film izliyorum.
+Genellikle modüller ile ilgileniyorum, discord.js gibi modüller kullanarak botlar geliştiriyorum. Boş zamanlarımdada aynı şekilde yazılımla ilgileniyorum veya nadiren bir film izliyorum.
 
 
 ## Bana nereden ulaşabilirsin?
@@ -17,4 +17,4 @@ Genellikle modüller ile ilgileniyorum, discord.js gibi modüller kullanarak bot
 
 ## Github istatistiklerim :
 
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arddaxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arddaxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%"> </div>
