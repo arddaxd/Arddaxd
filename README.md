@@ -4,7 +4,10 @@
 ![](https://komarev.com/ghpvc/?username=arddaxd)  
 # Selam, ben <a href="https://discord.com/users/920366542531743797">arda</a>! 👋
 1.5 yılı aşkın bir süredir JavaScript ile Discord üzerinde bot geliştiriyorum. Html, Css ve Nodejs gibi yazılım dilleri kullanarak kendi çapımda web site geliştiriyorum.
-Çok fazla arkadaşım olmadığından kendimce eğlenebileceğim bir şeyler yapmayı/geliştirmeyi severim. Genellikle modüller ile ilgileniyorum, discord.js gibi modüller kullanarak botlar geliştiriyorum.
+Çok fazla arkadaşım olmadığından kendimce eğlenebileceğim bir şeyler yapmayı/geliştirmeyi severim. 
+
+## Neler Yapıyorum?
+Genellikle yaz aylarında gif ve public sunuculara bot yapıyorum bu şekilde elde ettiğim gelirle vds/host almaya çalışıyorum, yakın zamanda [Dinamik](https://www.dinamikcode.cf) projemle birçok geliştiricinin bulunduğu kod paylaşım & yardımlaşma topluluğu kuracağım. 
 
 ## Bana nereden ulaşabilirsin?
 [![Discord Badge](https://img.shields.io/badge/Ardda-white?style=social&logo=Discord)](https://discord.com/users/613700645173592086)<br>
