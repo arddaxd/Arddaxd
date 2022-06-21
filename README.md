@@ -2,7 +2,7 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=arddaxd)  
-# Merhaba, ben <a href="https://discord.com/users/920366542531743797">ardda</a>! 👋
+# Selam, ben <a href="https://discord.com/users/920366542531743797">arda</a>! 👋
 1.5 yılı aşkın bir süredir JavaScript ile Discord üzerinde bot geliştiriyorum. Html, Css ve Nodejs gibi yazılım dilleri kullanarak kendi çapımda web site geliştiriyorum.
 Çok fazla arkadaşım olmadığından kendimce eğlenebileceğim bir şeyler yapmayı/geliştirmeyi severim. Genellikle modüller ile ilgileniyorum, discord.js gibi modüller kullanarak botlar geliştiriyorum.
 
