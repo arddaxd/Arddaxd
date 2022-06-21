@@ -1,9 +1,8 @@
 [![Ardda](https://cdn.discordapp.com/attachments/921841912929988720/988195327884537946/20220620_003519.jpg)](https://github.com/arddaxd/)
 <div align="center">
+[![Ardda](https://komarev.com/ghpvc/?username=Arddaxd)
 
-
-(https://komarev.com/ghpvc/?username=Arddaxd)
-# Merhaba, ben <a href="https://discord.com/users/920366542531743797">Ardda</a>! 👋
+ # Merhaba, ben <a href="https://discord.com/users/920366542531743797">Ardda</a>! 👋
 1.5 yılı aşkın bir süredir JavaScript ile Discord üzerinde bot geliştiriyorum. Html, Css ve Nodejs gibi yazılım dilleri kullanarak kendi çapımda web site geliştiriyorum.
 Çok fazla arkadaşım olmadığından kendimce eğlenebileceğim bir şeyler yapmayı/geliştirmeyi severim. Genellikle modüller ile ilgileniyorum, discord.js gibi modüller kullanarak botlar geliştiriyorum.
 
