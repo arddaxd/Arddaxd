@@ -1,4 +1,4 @@
-[![Ardda](https://media.discordapp.net/attachments/921841912929988720/992334729565196358/20220701_104336.jpg?width=840&height=472)](https://github.com/arddaxd/)
+ [![Ardda](https://media.discordapp.net/attachments/921841912929988720/992334729565196358/20220701_104336.jpg?width=840&height=472)](https://github.com/arddaxd/)
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=arddaxd)  
