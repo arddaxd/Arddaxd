@@ -6,9 +6,6 @@
 1.5 yılı aşkın bir süredir JavaScript ile Discord üzerinde bot geliştiriyorum. Html, Css ve Nodejs gibi yazılım dilleri kullanarak kendi çapımda web site geliştiriyorum.
 Çok fazla arkadaşım olmadığından kendimce eğlenebileceğim bir şeyler yapmayı/geliştirmeyi severim. 
 
-## Neler Yapıyorum?
-Genellikle yaz aylarında gif ve public sunuculara bot yapıyorum bu şekilde elde ettiğim gelirle vds/host almaya çalışıyorum, yakın zamanda [Dinamik](https://www.dinamikcode.cf) projemle birçok geliştiricinin bulunduğu kod paylaşım & yardımlaşma topluluğu kuracağım. 
-
 ## Bana nereden ulaşabilirsin?
 [![Discord Badge](https://img.shields.io/badge/Ardda-white?style=social&logo=Discord)](https://discord.com/users/613700645173592086)<br>
 <img src='https://api.ravencode.live/v1/users/920366542531743797/embed?width=400'></img>
@@ -18,4 +15,4 @@ Genellikle yaz aylarında gif ve public sunuculara bot yapıyorum bu şekilde el
 
 ## Github istatistiklerim :
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arddaxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arddaxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height=100%"
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arddaxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arddaxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height=100%"
