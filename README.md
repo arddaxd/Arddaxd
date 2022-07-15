@@ -1,9 +1,10 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=arddaxd) 
+![]
  
 # Hi, I'm  <a href="https://discord.com/users/920366542531743797">Arda</a>! 
 Discord bot developer and Sénior full-stack developer.
+</br>
 </br>
 <a href="https://ardda.one"></a> <a href="https://discord.com/users/920366542531743797"><img src="https://img.shields.io/badge/Ardda%230001-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://ardda.one"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/arddaxd"><img src="https://komarev.com/ghpvc/?username=arddaxd"></a>
  
