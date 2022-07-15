@@ -1,7 +1,5 @@
 <div align="center">
 
-![]
- 
 # Hi, I'm  <a href="https://discord.com/users/920366542531743797">Arda</a>! 
 Discord bot developer and Sénior full-stack developer.
 </br>
