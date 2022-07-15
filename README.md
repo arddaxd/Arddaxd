@@ -1,7 +1,7 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=arddaxd)  
-# Selam, ben <a href="https://discord.com/users/920366542531743797">arda</a>! 👋
+# Naber?, ben <a href="https://discord.com/users/920366542531743797">Arda</a>! 👋
 Kendi çapımda Senior Front End geliştiriciyim. Her zaman öğrenmeye ve gelişmeye açık biriyimdir. Kimsenin baskısı altında kalmadan kendi bilgilerimle discord.js modülünde ve discord platformunda botlar geliştiriyorum.llım
  
 Benim için yazılım bir iş değil bir stil. Yazılım yapmak emek ve uğraş ister ama türemeler herşeyi kopyalar bunun için yazılımlarımda MIT Lisans kullanıyorum ve çalınma ihtimalini en aza indiriyorum. Public ve gif sunucularına botlar geliştiriyorum lakin bana verdikleri paranın karşılığını fazlasıyla alıyorlar kendi altyapımlarla geliştirdiğim botlar tamamen 7/24 aktif kalıyor.
