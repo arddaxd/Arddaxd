@@ -2,11 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=arddaxd) 
  
-# Naber?, ben <a href="https://discord.com/users/920366542531743797">Arda</a>! 👋
-Kendi çapımda Senior Front End geliştiriciyim. Her zaman öğrenmeye ve gelişmeye açık biriyimdir. Kimsenin baskısı altında kalmadan kendi bilgilerimle discord.js modülünde ve discord platformunda botlar geliştiriyorum.llım
- 
- ## Kimsin sen?
-Ben Arda, benim için yazılım bir iş değil bir stil. Yazılım yapmak emek ve uğraş ister ama türemeler herşeyi kopyalar bunun için yazılımlarımda MIT Lisans kullanıyorum ve çalınma ihtimalini en aza indiriyorum. Public ve gif sunucularına botlar geliştiriyorum lakin bana verdikleri paranın karşılığını fazlasıyla alıyorlar kendi altyapımlarla geliştirdiğim botlar tamamen 7/24 aktif kalıyor.
+# Naber?, ben <a href="https://discord.com/users/920366542531743797">Arda</a>! 
+Kendi çapımda Senior Front End geliştiriciyim. Her zaman öğrenmeye ve gelişmeye açık biriyimdir. Kendi bilgilerimle discord platformunda botlar geliştiriyorum ve web siteleri kodluyorum.
+Günüm uyumak, yemek yemek, yazılım , ders ve  manga okumakla geçiyor.
  
 ## Sosyal medya :
 <a href="https://discord.com/users/920366542531743797"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://open.spotify.com/user/31w73vykhjhyetlg2klp4yuznrui?si=586d80387d754720"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> </a> <a href="https://github.com/arddaxd"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"> </a>
