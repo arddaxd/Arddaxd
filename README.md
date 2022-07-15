@@ -6,8 +6,9 @@
 
  
 ## Sosyal medya :
-<a href="https://discord.com/users/920366542531743797"><img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://open.spotify.com/user/31w73vykhjhyetlg2klp4yuznrui?si=586d80387d754720"><img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a> <a href="https://github.com/arddaxd"><img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
-<img src='https://api.ravencode.live/v2/users/920366542531743797/embed?width=400'></img>
+<a href="https://discord.com/users/920366542531743797"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://open.spotify.com/user/31w73vykhjhyetlg2klp4yuznrui?si=586d80387d754720"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> </a> <a href="https://github.com/arddaxd"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"> </a>
+ 
+ <img src='https://api.ravencode.live/v2/users/920366542531743797/embed?width=400'></img>
 
 ## Kullandığım & öğrendiğim şeyler :
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/> <img src='https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B'/> <img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'/> <img src='https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white'/> <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/> </div>
