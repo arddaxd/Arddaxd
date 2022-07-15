@@ -4,7 +4,7 @@
  
 # Hi, I'm  <a href="https://discord.com/users/920366542531743797">Arda</a>! 
 Discord bot developer and Sénior full-stack developer.
-<a href="https://ardda.one"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/920366542531743797"></a> <div class="ardda" align="left">
+<a href="https://ardda.one"></a> <a href="https://discord.com/users/920366542531743797"><img src="https://img.shields.io/badge/Ardda%238548-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://ardda.one"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/arddaxd"><img src="https://komarev.com/ghpvc/?username=arddaxd"></a>
  
 ## Social Media :
 <a href="https://discord.com/users/920366542531743797"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://open.spotify.com/user/31w73vykhjhyetlg2klp4yuznrui?si=586d80387d754720"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> </a> <a href="https://github.com/arddaxd"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"> </a>
