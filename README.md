@@ -3,8 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=arddaxd) 
  
 # Naber?, ben <a href="https://discord.com/users/920366542531743797">Arda</a>! 
-Kendi çapımda Senior Front End geliştiriciyim. Her zaman öğrenmeye ve gelişmeye açık biriyimdir. Kendi bilgilerimle discord platformunda botlar geliştiriyorum ve web siteleri kodluyorum.
-Günüm uyumak, yemek yemek, yazılım , ders ve  manga okumakla geçiyor.
+Senior Front End geliştiriciyim. Her zaman öğrenmeye ve gelişmeye açık biriyimdir. Kendi bilgilerimle discord platformunda botlar geliştiriyorum ve web siteleri kodluyorum.
  
 ## Sosyal medya :
 <a href="https://discord.com/users/920366542531743797"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://open.spotify.com/user/31w73vykhjhyetlg2klp4yuznrui?si=586d80387d754720"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> </a> <a href="https://github.com/arddaxd"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"> </a>
