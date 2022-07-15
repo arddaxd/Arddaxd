@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=arddaxd) 
  
-# Naber?, ben <a href="https://discord.com/users/920366542531743797">Arda</a>! 
+# Naber? ben <a href="https://discord.com/users/920366542531743797">Arda</a>! 
 Senior Front End geliştiriciyim. Her zaman öğrenmeye ve gelişmeye açık biriyimdir. Kendi bilgilerimle discord platformunda botlar geliştiriyorum ve web siteleri kodluyorum.
  
 ## Sosyal medya :
