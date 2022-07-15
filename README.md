@@ -3,7 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=arddaxd) 
  
 # Hi, I'm  <a href="https://discord.com/users/920366542531743797">Arda</a>! 
-Discord Bot & Senior Full-Stack Developer
+Discord bot developer and Sénior full-stack developer.
+<a href="https://ardda.one"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/920366542531743797"></a> <div class="ardda" align="left">
  
 ## Social Media :
 <a href="https://discord.com/users/920366542531743797"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://open.spotify.com/user/31w73vykhjhyetlg2klp4yuznrui?si=586d80387d754720"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"> </a> <a href="https://github.com/arddaxd"> <img src="https://img.shields.io/badge/Ardda%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"> </a>
