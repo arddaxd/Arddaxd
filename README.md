@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=arddaxd)  
+![](https://komarev.com/ghpvc/?username=arddaxd)  <a href="https://falsisdev.ga"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/920366542531743797"></a>
 # Naber?, ben <a href="https://discord.com/users/920366542531743797">Arda</a>! 👋
 Kendi çapımda Senior Front End geliştiriciyim. Her zaman öğrenmeye ve gelişmeye açık biriyimdir. Kimsenin baskısı altında kalmadan kendi bilgilerimle discord.js modülünde ve discord platformunda botlar geliştiriyorum.llım
  
