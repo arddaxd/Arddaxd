@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.discordapp.net/attachments/922035681939828786/999193825278963762/20220720_002523.png" alt="Banner" align="center">
 
-# Hi, I'm  <a href="https://discord.com/users/920366542531743797">Arda</a>! 
+# Hi, I'm a  <a href="https://discord.com/users/920366542531743797">Arda</a>! 
 Discord bot developer and Sénior full-stack developer.
 </br>
 </br>
